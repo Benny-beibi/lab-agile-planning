@@ -1,5 +1,5 @@
 ---
-name: Mockup Story
+name:User Story
 about: This template's purpose is for navigation.
 title: ''
 labels: ''
