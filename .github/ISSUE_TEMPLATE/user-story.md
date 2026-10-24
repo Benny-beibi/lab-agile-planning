@@ -1,6 +1,6 @@
 ---
-name:User Story
-about: This template's purpose is for navigation.
+name: User Story
+about: The purpose is for easy navigation.
 title: ''
 labels: ''
 assignees: ''
